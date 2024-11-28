@@ -1,0 +1,247 @@
+[
+    {
+        "name": "State Bank of India",
+        "popular": true,
+        "logo_url": "https://raw.githubusercontent.com/amanvaths/inrxbank/main/logos/sbi.png"
+    },
+    {
+        "name": "HDFC Bank",
+        "popular": true,
+        "logo_url": "https://raw.githubusercontent.com/amanvaths/inrxbank/main/logos/hdfc.png"
+    },
+    {
+        "name": "ICICI Bank",
+        "popular": true,
+        "logo_url": "https://raw.githubusercontent.com/amanvaths/inrxbank/main/logos/icici.png"
+    },
+    {
+        "name": "Axis Bank",
+        "popular": true,
+        "logo_url": "https://raw.githubusercontent.com/amanvaths/inrxbank/main/logos/Axis-bank.png"
+    },
+    {
+        "name": "Punjab National Bank",
+        "popular": true,
+        "logo_url": "https://raw.githubusercontent.com/amanvaths/inrxbank/main/logos/pnb.png"
+    },
+    {
+        "name": "Bank of Baroda",
+        "popular": true,
+        "logo_url": "https://raw.githubusercontent.com/amanvaths/inrxbank/main/logos/bob.png"
+    },
+    {
+        "name": "Kotak Mahindra Bank",
+        "popular": true,
+        "logo_url": "https://raw.githubusercontent.com/amanvaths/inrxbank/main/logos/kotak.png"
+    },
+    {
+        "name": "Canara Bank",
+        "popular": true,
+        "logo_url": "https://raw.githubusercontent.com/amanvaths/inrxbank/main/logos/Canara-Bank.png"
+    },
+    {
+        "name": "Union Bank of India",
+        "popular": true,
+        "logo_url": "https://raw.githubusercontent.com/amanvaths/inrxbank/main/logos/Union-Bank.png"
+    },
+    {
+        "name": "Bank of India",
+        "popular": false,
+        "logo_url": "https://raw.githubusercontent.com/amanvaths/inrxbank/main/logos/boi.png"
+    },
+    {
+        "name": "Bank of Maharashtra",
+        "popular": false,
+        "logo_url": "https://raw.githubusercontent.com/amanvaths/inrxbank/main/logos/bom.png"
+    },
+    {
+        "name": "Central Bank of India",
+        "popular": false,
+        "logo_url": "https://raw.githubusercontent.com/amanvaths/inrxbank/main/logos/cbi.png"
+    },
+    {
+        "name": "Indian Bank",
+        "popular": false,
+        "logo_url": "https://raw.githubusercontent.com/amanvaths/inrxbank/main/logos/indian-bank.png"
+    },
+    {
+        "name": "Indian Overseas Bank",
+        "popular": false,
+        "logo_url": "https://raw.githubusercontent.com/amanvaths/inrxbank/main/logos/Indian-Overseas-Bank.png"
+    },
+    {
+        "name": "Punjab & Sind Bank",
+        "popular": false,
+        "logo_url": "https://raw.githubusercontent.com/amanvaths/inrxbank/main/logos/Punjab-Sind-Bank.png"
+    },
+    {
+        "name": "UCO Bank",
+        "popular": false,
+        "logo_url": "https://raw.githubusercontent.com/amanvaths/inrxbank/main/logos/UCO-Bank.png"
+    },
+    {
+        "name": "Bandhan Bank",
+        "popular": false,
+        "logo_url": "https://raw.githubusercontent.com/amanvaths/inrxbank/main/logos/bandhan_bank.png"
+    },
+    {
+        "name": "CSB Bank",
+        "popular": false,
+        "logo_url": "https://raw.githubusercontent.com/amanvaths/inrxbank/main/logos/allbank.png"
+    },
+    {
+        "name": "City Union Bank",
+        "popular": false,
+        "logo_url": "https://raw.githubusercontent.com/amanvaths/inrxbank/main/logos/allbank.png"
+    },
+    {
+        "name": "DCB Bank",
+        "popular": false,
+        "logo_url": "https://raw.githubusercontent.com/amanvaths/inrxbank/main/logos/DCB-Bank.png"
+    },
+    {
+        "name": "Dhanlaxmi Bank",
+        "popular": false,
+        "logo_url": "https://raw.githubusercontent.com/amanvaths/inrxbank/main/logos/allbank.png"
+    },
+    {
+        "name": "Federal Bank",
+        "popular": false,
+        "logo_url": "https://raw.githubusercontent.com/amanvaths/inrxbank/main/logos/allbank.png"
+    },
+    {
+        "name": "IDBI Bank",
+        "popular": false,
+        "logo_url": "https://raw.githubusercontent.com/amanvaths/inrxbank/main/logos/idbi.png"
+    },
+    {
+        "name": "IDFC FIRST Bank",
+        "popular": false,
+        "logo_url": "https://raw.githubusercontent.com/amanvaths/inrxbank/main/logos/idfc.png"
+    },
+    {
+        "name": "IndusInd Bank",
+        "popular": false,
+        "logo_url": "https://raw.githubusercontent.com/amanvaths/inrxbank/main/logos/indusind.png"
+    },
+    {
+        "name": "Jammu & Kashmir Bank",
+        "popular": false,
+        "logo_url": "https://raw.githubusercontent.com/amanvaths/inrxbank/main/logos/j&k.png"
+    },
+    {
+        "name": "Karnataka Bank",
+        "popular": false,
+        "logo_url": "https://raw.githubusercontent.com/amanvaths/inrxbank/main/logos/Karnataka-Bank.png"
+    },
+    {
+        "name": "Karur Vysya Bank",
+        "popular": false,
+        "logo_url": "https://raw.githubusercontent.com/amanvaths/inrxbank/main/logos/allbank.png"
+    },
+    {
+        "name": "Nainital Bank",
+        "popular": false,
+        "logo_url": "https://raw.githubusercontent.com/amanvaths/inrxbank/main/logos/Nainital-Bank.png"
+    },
+    {
+        "name": "RBL Bank",
+        "popular": false,
+        "logo_url": "https://raw.githubusercontent.com/amanvaths/inrxbank/main/logos/rbl.png"
+    },
+    {
+        "name": "South Indian Bank",
+        "popular": false,
+        "logo_url": "https://raw.githubusercontent.com/amanvaths/inrxbank/main/logos/south-india.png"
+    },
+    {
+        "name": "Tamilnad Mercantile Bank",
+        "popular": false,
+        "logo_url": "https://raw.githubusercontent.com/amanvaths/inrxbank/main/logos/allbank.png"
+    },
+    {
+        "name": "YES Bank",
+        "popular": false,
+        "logo_url": "https://raw.githubusercontent.com/amanvaths/inrxbank/main/logos/YES-Bank.png"
+    },
+    {
+        "name": "Au Small Finance Bank",
+        "popular": false,
+        "logo_url": "https://raw.githubusercontent.com/amanvaths/inrxbank/main/logos/au-small-bank.png"
+    },
+    {
+        "name": "Capital Small Finance Bank",
+        "popular": false,
+        "logo_url": "https://raw.githubusercontent.com/amanvaths/inrxbank/main/logos/allbank.png"
+    },
+    {
+        "name": "Equitas Small Finance Bank",
+        "popular": false,
+        "logo_url": "https://raw.githubusercontent.com/amanvaths/inrxbank/main/logos/allbank.png"
+    },
+    {
+        "name": "ESAF Small Finance Bank",
+        "popular": false,
+        "logo_url": "https://raw.githubusercontent.com/amanvaths/inrxbank/main/logos/allbank.png"
+    },
+    {
+        "name": "Fincare Small Finance Bank",
+        "popular": false,
+        "logo_url": "https://raw.githubusercontent.com/amanvaths/inrxbank/main/logos/allbank.png"
+    },
+    {
+        "name": "Jana Small Finance Bank",
+        "popular": false,
+        "logo_url": "https://raw.githubusercontent.com/amanvaths/inrxbank/main/logos/allbank.png"
+    },
+    {
+        "name": "North East Small Finance Bank",
+        "popular": false,
+        "logo_url": "https://raw.githubusercontent.com/amanvaths/inrxbank/main/logos/allbank.png"
+    },
+    {
+        "name": "Suryoday Small Finance Bank",
+        "popular": false,
+        "logo_url": "https://raw.githubusercontent.com/amanvaths/inrxbank/main/logos/allbank.png"
+    },
+    {
+        "name": "Ujjivan Small Finance Bank",
+        "popular": false,
+        "logo_url": "https://raw.githubusercontent.com/amanvaths/inrxbank/main/logos/Ujjivan-Small-Finance-Bank.png"
+    },
+    {
+        "name": "Utkarsh Small Finance Bank",
+        "popular": false,
+        "logo_url": "https://raw.githubusercontent.com/amanvaths/inrxbank/main/logos/allbank.png"
+    },
+    {
+        "name": "Airtel Payments Bank",
+        "popular": false,
+        "logo_url": "https://raw.githubusercontent.com/amanvaths/inrxbank/main/logos/airtel-bank.png"
+    },
+    {
+        "name": "India Post Payments Bank",
+        "popular": false,
+        "logo_url": "https://raw.githubusercontent.com/amanvaths/inrxbank/main/logos/India-Post-Payments-Bank.png"
+    },
+    {
+        "name": "Fino Payments Bank",
+        "popular": false,
+        "logo_url": "https://raw.githubusercontent.com/amanvaths/inrxbank/main/logos/fino.png"
+    },
+    {
+        "name": "Paytm Payments Bank",
+        "popular": false,
+        "logo_url": "https://raw.githubusercontent.com/amanvaths/inrxbank/main/logos/paytm.png"
+    },
+    {
+        "name": "Jio Payments Bank",
+        "popular": false,
+        "logo_url": "https://raw.githubusercontent.com/amanvaths/inrxbank/main/logos/jio.png"
+    },
+    {
+        "name": "NSDL Payments Bank",
+        "popular": false,
+        "logo_url": "https://raw.githubusercontent.com/amanvaths/inrxbank/main/logos/allbank.png"
+    }
+]
